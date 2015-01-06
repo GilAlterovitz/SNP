@@ -5,6 +5,8 @@
 ### SNP ###
 data
 report
+*.lib
+*.exe 
 
 
 ### OSX ###
@@ -124,8 +126,6 @@ vignettes/*.pdf
 Thumbs.db
 ehthumbs.db
 
-*.lib
-*.exe 
 
 # Folder config file
 Desktop.ini
