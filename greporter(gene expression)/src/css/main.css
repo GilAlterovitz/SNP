@@ -1,0 +1,49 @@
+body
+{
+    background-color: #DAE4E5;
+}
+.topbar
+{
+    position: relative;
+    top:1em;
+    left:2em;
+    text-align: center;
+}
+.homepage
+{
+    position: relative;
+    top:3em;
+    left: 10%;
+    width:80%;
+
+}
+.path
+{
+    position: relative;
+    width: 60%;
+    left: 10%;
+}
+.path_home
+{
+   top:2em;
+}
+
+.home_button
+{
+    position: relative;
+    top:1em;
+}
+
+.perpage
+{
+    position: relative;
+    top:3em;
+    left: 10%;
+    width:80%;
+    color: rgb(53,118,190);
+    border:2px solid;
+    border-radius:25px;
+}
+.setting{
+
+}
